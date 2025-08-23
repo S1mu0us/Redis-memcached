@@ -39,6 +39,7 @@
 *Приведите скриншот systemctl status memcached, где будет видно, что memcached запущен.*
 
 `Решение`
+
 <img src = "img/image1.png">
 
 ---
